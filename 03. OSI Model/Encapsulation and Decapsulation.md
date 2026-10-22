@@ -47,4 +47,16 @@
 ## Layer 2
 ### Ethernet Header
 ![[Ethernet Header.png|406]]
-- MAC Address
+#### MAC Address
+- Physical address that is used to identify a network card on a LAN
+#### EtherType
+- Used to indicate which protocol is encapsulated in the payload of a frame
+- IPv4 or IPv6
+#### Payload
+- The data we're trying to send over the network
+- Ethernet
+	- 42 bytes if using VLANs
+	- 46 bytes if no VLANs
+	- ![[Payload.png|352]]
+## Layer 1
+- Transmitting Layer 2 frames as a series of 1's and 0's over the media

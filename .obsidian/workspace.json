@@ -223,11 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0070b584b15ca954",
+  "active": "352075ebbe82f74c",
   "lastOpenFiles": [
+    "Resources/03. OSI Model/Payload.png",
+    "definitions/definitions.md",
+    "03. OSI Model/Encapsulation and Decapsulation.md",
     "Network-Notes",
     "Resources/03. OSI Model/Ethernet Header.png",
-    "03. OSI Model/Encapsulation and Decapsulation.md",
     "Resources/03. OSI Model/IP Header.png",
     "03. OSI Model/Understanding the OSI Model.md",
     "Resources/03. OSI Model/UDP Header.png",
@@ -238,7 +240,6 @@
     "03. OSI Model/Layer 7 (Application).md",
     "03. OSI Model/Layer 6 (Presentation).md",
     "03. OSI Model/Layer 5 (Session).md",
-    "definitions/definitions.md",
     "Resources/03. OSI Model/Three-way Handshake.png",
     "03. OSI Model/Layer 3 (Network).md",
     "03. OSI Model/Layer 2 (Data Link).md",
@@ -270,7 +271,6 @@
     "Resources/Study Plan.pdf",
     "Resources/Study Guide.pdf",
     "definitions",
-    "02. Network Fundamentals",
     "01. Intro/Objectives.md",
     "Welcome.md"
   ]
