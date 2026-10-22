@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. OSI Model/Encapsulation and Decapsulation.md",
+                "file": "03. OSI Model/Understanding the OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encapsulation and Decapsulation"
+              "title": "Understanding the OSI Model"
             }
           },
           {
@@ -223,11 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "352075ebbe82f74c",
+  "active": "ba1acb309da9cf73",
   "lastOpenFiles": [
+    "04. Ports and Protocols",
+    "03. OSI Model/Encapsulation and Decapsulation.md",
     "Resources/03. OSI Model/Payload.png",
     "definitions/definitions.md",
-    "03. OSI Model/Encapsulation and Decapsulation.md",
     "Network-Notes",
     "Resources/03. OSI Model/Ethernet Header.png",
     "Resources/03. OSI Model/IP Header.png",
@@ -259,7 +260,6 @@
     "Resources/Exam Objectives.pdf",
     "03. OSI Model",
     "Resources/02. Network Fundamentals/Spine and leaf Architecture.png",
-    "Resources/02. Network Fundamentals/Three-tiered Hierarchy.png",
     "Resources/Templates/Section Notes.md",
     "Resources/02. Network Fundamentals",
     "02. Network Fundamentals/Section 02 Canvas.canvas",
