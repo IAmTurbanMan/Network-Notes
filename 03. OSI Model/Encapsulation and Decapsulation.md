@@ -49,4 +49,4 @@
 ![[Ethernet Header.png|406]]
 - MAC Address
 	- Is a thing to remember
-	- 
+	- But now this thing as well
