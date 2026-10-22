@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2944746ba5837fb1","type":"file","file":"Resources/02. Network Fundamentals/Network Geography.png","x":-360,"y":301,"width":400,"height":398},
+		{"id":"5114a9d8c0f2b65b","type":"text","text":"#### IEEE Standards\n\n###### Wi-Fi\n- IEEE 802.11\n###### Ethernet\n- IEEE 802.3","x":-360,"y":-60,"width":400,"height":246},
+		{"id":"9461d1677269e182","type":"file","file":"02. Network Fundamentals/Network Geography.md","x":220,"y":-60,"width":554,"height":492}
+	],
+	"edges":[
+		{"id":"f84cb92e42573cda","fromNode":"5114a9d8c0f2b65b","fromSide":"bottom","toNode":"9461d1677269e182","toSide":"left"},
+		{"id":"dfcb03b84119308a","fromNode":"2944746ba5837fb1","fromSide":"right","toNode":"9461d1677269e182","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"447aab21d348d1a9","x":0,"y":0,"width":400,"height":400,"type":"file","file":"02. Network Fundamentals/Network Components.md"},
+		{"id":"0e506aca9102cd4b","x":-300,"y":0,"width":250,"height":60,"color":"5","type":"text","text":""}
+	],
+	"edges":[
+		{"id":"ad55870eb7dde490","fromNode":"0e506aca9102cd4b","fromSide":"bottom","toNode":"447aab21d348d1a9","toSide":"left"}
+	]
+}

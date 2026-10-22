@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "74733cd75e7f0f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ed69209e1af615",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "352075ebbe82f74c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. OSI Model/Encapsulation and Decapsulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encapsulation and Decapsulation"
+            }
+          },
+          {
+            "id": "157f0de0095a0cc4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/Exam Objectives.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Exam Objectives"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8424d6c9c96b7c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1a93732c90a56de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba1acb309da9cf73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "327c8e834db2b21f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"flashcards\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a61bbd438b8eedd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.4296875
+  },
+  "right": {
+    "id": "56d03e4b3aae557f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6585a8563ea2b04d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "085dd5b0bce24ce9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03. OSI Model/Encapsulation and Decapsulation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4feb63df80c3aae6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03. OSI Model/Encapsulation and Decapsulation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e6c2c4b2960ee580",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43a9b289ab89deb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "75b1b7aa872c3bac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03. OSI Model/Encapsulation and Decapsulation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a36c47316298d515",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0070b584b15ca954",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.05859375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "flashcards-obsidian:Update Anki from current note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0070b584b15ca954",
+  "lastOpenFiles": [
+    "Resources/03. OSI Model/Ethernet Header.png",
+    "03. OSI Model/Encapsulation and Decapsulation.md",
+    "Resources/03. OSI Model/IP Header.png",
+    "03. OSI Model/Understanding the OSI Model.md",
+    "Resources/03. OSI Model/UDP Header.png",
+    "03. OSI Model/Layer 4 (Transport).md",
+    "Resources/03. OSI Model/TCP Header.png",
+    "Resources/03. OSI Model/Encapsulation Through Layers.png",
+    "Resources/03. OSI Model/Encapsulation and Decapsulation.png",
+    "03. OSI Model/Layer 7 (Application).md",
+    "03. OSI Model/Layer 6 (Presentation).md",
+    "03. OSI Model/Layer 5 (Session).md",
+    "definitions/definitions.md",
+    "Resources/03. OSI Model/Three-way Handshake.png",
+    "03. OSI Model/Layer 3 (Network).md",
+    "03. OSI Model/Layer 2 (Data Link).md",
+    "03. OSI Model/Section 03 Canvas.canvas",
+    "Multi-Layer switch is a Layer 3 device.md",
+    "03. OSI Model/Layer 1 (Physical).md",
+    "Resources/03. OSI Model/MAC Address.png",
+    "Resources/03. OSI Model",
+    "02. Network Fundamentals/Wired Network Topology.md",
+    "03. OSI Model/12. OSI Model.md",
+    "02. Network Fundamentals/Datacenter Topology.md",
+    "02. Network Fundamentals/Wireless Network Topology.md",
+    "02. Network Fundamentals/Understanding Network Geography.md",
+    "02. Network Fundamentals/Network Geography.md",
+    "02. Network Fundamentals/Network Resources.md",
+    "02. Network Fundamentals/Network Components.md",
+    "Resources/Exam Objectives.pdf",
+    "03. OSI Model",
+    "Resources/02. Network Fundamentals/Spine and leaf Architecture.png",
+    "Resources/02. Network Fundamentals/Three-tiered Hierarchy.png",
+    "Resources/Templates/Section Notes.md",
+    "Resources/02. Network Fundamentals",
+    "02. Network Fundamentals/Section 02 Canvas.canvas",
+    "Untitled.base",
+    "02. Network Fundamentals/Untitled.md",
+    "Resources/Templates",
+    "01. Intro/Domains.md",
+    "Resources/Flash Cards.md",
+    "Resources/Study Plan.pdf",
+    "Resources/Study Guide.pdf",
+    "definitions",
+    "02. Network Fundamentals",
+    "01. Intro/Objectives.md",
+    "Welcome.md"
+  ]
+}
