@@ -47,4 +47,4 @@
 ## Layer 2
 ### Ethernet Header
 ![[Ethernet Header.png|406]]
-- MAC Address -fart
+- MAC Address
