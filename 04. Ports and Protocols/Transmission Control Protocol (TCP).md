@@ -12,4 +12,7 @@
 - Three-way handshake
 	- SYN ➡️ SYN-ACK ➡️ ACK
 - Error-Checking
-	Uses sequence number and ACK messages to assure the data is being received correctly
+	- Uses sequence number and ACK messages to assure the data is being received correctly
+- Flow control
+	- Windowing
+		- Occurs by allowing the receiver to specify the amount of data it can handle at a time
