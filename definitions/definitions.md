@@ -372,4 +372,6 @@ Identifies incoming data as urgent
 
 # Port
 
+*Ports, port, ports*
+
 A logical opening in a computer that represents a service or application
