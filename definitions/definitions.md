@@ -367,3 +367,9 @@ Used to ensure data is given priority and is processed at the sending or receivi
 Similar to PSH
 
 Identifies incoming data as urgent
+
+---
+
+# Port
+
+A logical opening in a computer that represents a service or application

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. OSI Model/Understanding the OSI Model.md",
+                "file": "04. Ports and Protocols/Network Port Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding the OSI Model"
+              "title": "Network Port Fundamentals"
             }
           },
           {
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -223,8 +223,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba1acb309da9cf73",
+  "active": "352075ebbe82f74c",
   "lastOpenFiles": [
+    "04. Ports and Protocols/Protocols and Ports Table.md",
+    "04. Ports and Protocols/Network Port Fundamentals.md",
+    "04. Ports and Protocols/Other Network Service Ports and Protocols.md",
+    "04. Ports and Protocols/Network Service Ports and Protocols.md",
+    "04. Ports and Protocols/Remote Access Ports and Protocols.md",
+    "04. Ports and Protocols/File Transfer Ports and Protocols.md",
+    "04. Ports and Protocols/Email Ports and Protocols.md",
+    "04. Ports and Protocols/Web Ports and Protocols.md",
+    "04. Ports and Protocols/Internet Control Message Protocol (ICMP).md",
+    "04. Ports and Protocols/User Datagram Protocol (UDP).md",
+    "04. Ports and Protocols/Transmission Control Protocol (TCP).md",
+    "03. OSI Model/Layer 1 (Physical).md",
+    "Resources/Exam Objectives.pdf",
+    "03. OSI Model/Understanding the OSI Model.md",
     "04. Ports and Protocols",
     "03. OSI Model/Encapsulation and Decapsulation.md",
     "Resources/03. OSI Model/Payload.png",
@@ -232,7 +246,6 @@
     "Network-Notes",
     "Resources/03. OSI Model/Ethernet Header.png",
     "Resources/03. OSI Model/IP Header.png",
-    "03. OSI Model/Understanding the OSI Model.md",
     "Resources/03. OSI Model/UDP Header.png",
     "03. OSI Model/Layer 4 (Transport).md",
     "Resources/03. OSI Model/TCP Header.png",
@@ -246,32 +259,19 @@
     "03. OSI Model/Layer 2 (Data Link).md",
     "03. OSI Model/Section 03 Canvas.canvas",
     "Multi-Layer switch is a Layer 3 device.md",
-    "03. OSI Model/Layer 1 (Physical).md",
     "Resources/03. OSI Model/MAC Address.png",
     "Resources/03. OSI Model",
     "02. Network Fundamentals/Wired Network Topology.md",
     "03. OSI Model/12. OSI Model.md",
     "02. Network Fundamentals/Datacenter Topology.md",
     "02. Network Fundamentals/Wireless Network Topology.md",
-    "02. Network Fundamentals/Understanding Network Geography.md",
-    "02. Network Fundamentals/Network Geography.md",
-    "02. Network Fundamentals/Network Resources.md",
-    "02. Network Fundamentals/Network Components.md",
-    "Resources/Exam Objectives.pdf",
     "03. OSI Model",
     "Resources/02. Network Fundamentals/Spine and leaf Architecture.png",
-    "Resources/Templates/Section Notes.md",
     "Resources/02. Network Fundamentals",
     "02. Network Fundamentals/Section 02 Canvas.canvas",
     "Untitled.base",
-    "02. Network Fundamentals/Untitled.md",
     "Resources/Templates",
-    "01. Intro/Domains.md",
-    "Resources/Flash Cards.md",
     "Resources/Study Plan.pdf",
-    "Resources/Study Guide.pdf",
-    "definitions",
-    "01. Intro/Objectives.md",
-    "Welcome.md"
+    "Resources/Study Guide.pdf"
   ]
 }
