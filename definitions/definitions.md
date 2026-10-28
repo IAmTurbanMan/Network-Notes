@@ -467,3 +467,31 @@ Port 445
 Server Message Block
 
 Allows computer apps to read and write to files and request services from the server programs
+
+---
+
+# SSH
+
+Port 22
+
+Secure Shell
+
+Protocol used for secure remote login and other secure network services over an unsecure network
+
+---
+
+# Telnet
+
+Port 23
+
+Allows a user on one computer to login remotely to another computer
+
+---
+
+# RDP
+
+Port 3389
+
+Remote Desktop Protocol
+
+Proprietary protocol that was developed by Microsoft to provide users with a graphical user interface to connect to another computer over a network connection

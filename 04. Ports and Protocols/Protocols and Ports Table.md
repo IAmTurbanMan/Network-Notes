@@ -13,3 +13,6 @@
 | SFTP     | 22       | File Transfer |
 | TFTP     | 69       | File Transfer |
 | SMB      | 445      | File Transfer |
+| SSH      | 22       | Remote Access |
+| Telnet   | 23       | Remote Access |
+| RDP      | 3389     | Remote Access |
