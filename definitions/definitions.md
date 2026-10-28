@@ -495,3 +495,33 @@ Port 3389
 Remote Desktop Protocol
 
 Proprietary protocol that was developed by Microsoft to provide users with a graphical user interface to connect to another computer over a network connection
+
+---
+
+# DNS
+
+Port 53
+
+Domain Name System
+
+Used to translate human-friendly domain names into an IP address that computers can use to identify each other on a network
+
+---
+
+# DHCP
+
+Port 67, Port 68
+
+Dynamic Host Configuration Protocol
+
+Used to automate the assignment of IP addresses, subnets, mass gateways, and other networking parameters to a client device
+
+---
+
+# Syslog
+
+Port 514 
+
+System Logging
+
+Standard for message logging that allows devices to send event messages across IP networks to an event message collector known as a Syslog server
