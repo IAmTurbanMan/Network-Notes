@@ -14,5 +14,10 @@
 - Used for initiating, maintaining, and terminating real-time sessions that involve voice, video, messaging, and other communication services
 ## LDAP (Lightweight Directory Access Protocol)
 - Port 389
-	- Tcp and UDP
+	- TCP and UDP
 - Protocol for accessing and maintaining distributed directory information services over and IP network
+- Sends information as plain text
+	- LDAPS (LDAP over SSL)
+		- Port 636
+			- TCP
+		- Encrypted with SSL or TLS for increased security

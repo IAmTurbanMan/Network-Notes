@@ -380,17 +380,17 @@ A logical opening in a computer that represents a service or application
 
 # HTTP
 
-Port 80
+*Hypertext Transfer Protocol*
 
-Hypertext Transfer Protocol
+Port 80
 
 ---
 
 # HTTPS
 
-Port 443
+*Hypertext Transfer Protocol Secure*
 
-Hypertext Transfer Protocol Secure
+Port 443
 
 ---
 
@@ -401,6 +401,8 @@ Secure Socket Layer
 ---
 
 # SMTP
+
+*Simple Mail Transfer Protocol*
 
 Port 25
 
