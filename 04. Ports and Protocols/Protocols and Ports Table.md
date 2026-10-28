@@ -15,7 +15,7 @@
 | SMB                | 445      | File Transfer   |                    |
 | SSH                | 22       | Remote Access   |                    |
 | Telnet             | 23       | Remote Access   |                    |
-| RDP                | 3389     | Remote Access   |                    |
+| RDP                | 3389     | Remote Access   | TCP                |
 | DNS                | 53       | Network Service | TCP, UDP           |
 | DHCP               | 67, 68   | Network Service | UDP                |
 | Microsoft SQL      | 1433     | Network Service |                    |
