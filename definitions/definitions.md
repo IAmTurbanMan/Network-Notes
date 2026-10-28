@@ -375,3 +375,25 @@ Identifies incoming data as urgent
 *Ports, port, ports*
 
 A logical opening in a computer that represents a service or application
+
+---
+
+# HTTP
+
+Port 80
+
+Hypertext Transfer Protocol
+
+---
+
+# HTTPS
+
+Port 443
+
+Hypertext Transfer Protocol Secure
+
+---
+
+# SSL
+
+Secure Socket Layer
