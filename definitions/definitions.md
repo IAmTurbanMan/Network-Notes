@@ -417,3 +417,13 @@ Post Office Protocol version 3
 Port 110
 
 Used to retrieve emails from a remote server to a local client
+
+---
+
+# IMAP
+
+Port 143
+
+Internet Message Access Protocol
+
+Allows users to manage emails directly on the email server

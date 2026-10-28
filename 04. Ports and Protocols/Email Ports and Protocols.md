@@ -16,6 +16,17 @@
 - Downloads messages from server into email client
 	- Downloaded messages are deleted from server when they are downloaded
 - Limits email access on multiple devices as messages are stored only on the initial device
-- Updated versions include the option to keep the message on the server on
-
-## IMAP
+- Updated versions include the option to keep the message on the server after being downloaded
+	- Read or delete status not synchronized across devices
+- Transmits messages over plain text
+	- POP3S introduced
+		- Port 995
+		- SSL/TLS tunnels
+## IMAP (Internet Message Access Protocol)
+- Port 143
+- Allows users to manage emails directly on the email server
+- Access and sync emails across multiple devices
+- Initially transmitted emails in plain text
+	- IMAPS introduced
+		- Port 993
+		- SSL/TLS tunnels
