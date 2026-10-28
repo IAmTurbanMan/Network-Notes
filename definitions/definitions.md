@@ -404,15 +404,13 @@ Secure Socket Layer
 
 Port 25
 
-Simple Mail Transfer Protocol
-
 Standard protocol used for sending emails across the Internet
 
 ---
 
 # POP3
 
-Post Office Protocol version 3
+*Post Office Protocol version 3*
 
 Port 110
 
@@ -422,9 +420,9 @@ Used to retrieve emails from a remote server to a local client
 
 # IMAP
 
-Port 143
+*Internet Message Access Protocol*
 
-Internet Message Access Protocol
+Port 143
 
 Allows users to manage emails directly on the email server
 
@@ -432,9 +430,9 @@ Allows users to manage emails directly on the email server
 
 # FTP
 
-Port 20, Port 21
+*File Transfer Protocol*
 
-File Transfer Protocol
+Port 20, Port 21
 
 Used for transferring files between a client and a server over a network
 
@@ -442,9 +440,9 @@ Used for transferring files between a client and a server over a network
 
 # SFTP
 
-Port 22
+*Secure File Transfer Protocol, SSH File Transfer Protocol*
 
-Secure File Transfer Protocol/SSH File Transfer Protocol
+Port 22
 
 Created to address the security concerns of FTP
 
@@ -452,9 +450,9 @@ Created to address the security concerns of FTP
 
 # TFTP
 
-Port 69
+*Trivial File Transfer Protocol*
 
-Trivial File Transfer Protocol
+Port 69
 
 Simpler and more basic version of FTP
 
@@ -462,9 +460,9 @@ Simpler and more basic version of FTP
 
 # SMB
 
-Port 445
+*Server Message Block*
 
-Server Message Block
+Port 445
 
 Allows computer apps to read and write to files and request services from the server programs
 
@@ -472,9 +470,9 @@ Allows computer apps to read and write to files and request services from the se
 
 # SSH
 
-Port 22
+*Secure Shell*
 
-Secure Shell
+Port 22
 
 Protocol used for secure remote login and other secure network services over an unsecure network
 
@@ -490,9 +488,9 @@ Allows a user on one computer to login remotely to another computer
 
 # RDP
 
-Port 3389
+*Remote Desktop Protocol*
 
-Remote Desktop Protocol
+Port 3389
 
 Proprietary protocol that was developed by Microsoft to provide users with a graphical user interface to connect to another computer over a network connection
 
@@ -500,9 +498,9 @@ Proprietary protocol that was developed by Microsoft to provide users with a gra
 
 # DNS
 
-Port 53
+*Domain Name System*
 
-Domain Name System
+Port 53
 
 Used to translate human-friendly domain names into an IP address that computers can use to identify each other on a network
 
@@ -510,9 +508,9 @@ Used to translate human-friendly domain names into an IP address that computers 
 
 # DHCP
 
-Port 67, Port 68
+*Dynamic Host Configuration Protocol*
 
-Dynamic Host Configuration Protocol
+Port 67, Port 68
 
 Used to automate the assignment of IP addresses, subnets, mass gateways, and other networking parameters to a client device
 
@@ -520,8 +518,46 @@ Used to automate the assignment of IP addresses, subnets, mass gateways, and oth
 
 # Syslog
 
+*System Logging*
+
 Port 514 
 
-System Logging
-
 Standard for message logging that allows devices to send event messages across IP networks to an event message collector known as a Syslog server
+
+---
+
+# SNMP
+
+*Simple Network Management Protocol*
+
+Port 161, Port 162
+
+Used for collecting information from and configuring different network devices like servers, printers, hubs, switches, and routers over an IP network
+
+---
+
+# NTP
+*Network Time Protocol*
+
+Port 123
+
+Used to synchronize the clocks of a computer over a given network
+
+---
+
+# SIP
+*Session Initiation Protocol*
+
+Port 5060, Port 5061
+
+Used for initiating, maintaining, and terminating real-time sessions that involve voice, video, messaging, and other communication services
+
+---
+
+# LDAP
+
+*Lightweight Directory Access Protocol*
+
+Port 389
+
+Protocol for accessing and maintaining distributed directory information services over and IP network
