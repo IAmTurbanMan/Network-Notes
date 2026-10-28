@@ -427,3 +427,33 @@ Port 143
 Internet Message Access Protocol
 
 Allows users to manage emails directly on the email server
+
+---
+
+# FTP
+
+Port 20, Port 21
+
+File Transfer Protocol
+
+Used for transferring files between a client and a server over a network
+
+---
+
+# SFTP
+
+Port 22
+
+Secure File Transfer Protocol/SSH File Transfer Protocol
+
+Created to address the security concerns of FTP
+
+---
+
+# TFTP
+
+Port 69
+
+Trivial File Transfer Protocol
+
+Simpler and more basic version of FTP
