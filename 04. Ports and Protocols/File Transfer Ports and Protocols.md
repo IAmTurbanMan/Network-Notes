@@ -23,5 +23,11 @@
 - Simpler and more basic version of FTP
 - No user authentication or directory browsing
 - Designed for sending files when minimal security is sufficient
-- 
-## SMB
+	- Booting up a diskless workstation, VoIP phones
+## SMB (Server Message Block)
+- Port 445
+- Allows computer apps to read and write to files and request services from the server programs
+- Windows file sharing
+- Cross platform
+	- Samba (I use this!)
+- Used inside LAN and is not a protocol to send data across the Internet

@@ -12,3 +12,4 @@
 | FTP      | 20, 21   | File Transfer |
 | SFTP     | 22       | File Transfer |
 | TFTP     | 69       | File Transfer |
+| SMB      | 445      | File Transfer |

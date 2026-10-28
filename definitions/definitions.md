@@ -457,3 +457,13 @@ Port 69
 Trivial File Transfer Protocol
 
 Simpler and more basic version of FTP
+
+---
+
+# SMB
+
+Port 445
+
+Server Message Block
+
+Allows computer apps to read and write to files and request services from the server programs
