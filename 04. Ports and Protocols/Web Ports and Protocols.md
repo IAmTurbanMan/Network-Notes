@@ -19,5 +19,14 @@
 	- Banking, Medical, etc
 	- These types of sites will auto-redirect from HTTP to HTTPS for enhanced data encryption and security
 ## Differences
-### Security and encryption
-### Default usage
+### Security and Encryption
+- Port 80 is sent in plain text
+- Port 443 is encrypted via SSL/TLS encryption
+### Default Usage
+- Port 80 was the default since 1991
+- Port 443 introduced in 1994
+	- Did not become default until 10-15 years ago
+	- Over 95% of web traffic over 443 now
+### SEO (Search Engine Optimization) and Trust
+- Modern web practices prioritize HTTPS over HTTP for enhanced security
+- Search engines will rank sites higher when they use HTTPS
