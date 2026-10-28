@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Ports and Protocols/Web Ports and Protocols.md",
+                "file": "04. Ports and Protocols/Email Ports and Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Ports and Protocols"
+              "title": "Email Ports and Protocols"
             }
           },
           {
@@ -225,7 +225,9 @@
   },
   "active": "352075ebbe82f74c",
   "lastOpenFiles": [
+    "04. Ports and Protocols/File Transfer Ports and Protocols.md",
     "04. Ports and Protocols/Protocols and Ports Table.md",
+    "04. Ports and Protocols/Email Ports and Protocols.md",
     "04. Ports and Protocols/Web Ports and Protocols.md",
     "04. Ports and Protocols/Internet Control Message Protocol (ICMP).md",
     "definitions/definitions.md",
@@ -236,8 +238,6 @@
     "04. Ports and Protocols/Other Network Service Ports and Protocols.md",
     "04. Ports and Protocols/Network Service Ports and Protocols.md",
     "04. Ports and Protocols/Remote Access Ports and Protocols.md",
-    "04. Ports and Protocols/File Transfer Ports and Protocols.md",
-    "04. Ports and Protocols/Email Ports and Protocols.md",
     "03. OSI Model/Layer 1 (Physical).md",
     "Resources/Exam Objectives.pdf",
     "03. OSI Model/Understanding the OSI Model.md",

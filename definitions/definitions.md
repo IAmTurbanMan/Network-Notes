@@ -397,3 +397,23 @@ Hypertext Transfer Protocol Secure
 # SSL
 
 Secure Socket Layer
+
+---
+
+# SMTP
+
+Port 25
+
+Simple Mail Transfer Protocol
+
+Standard protocol used for sending emails across the Internet
+
+---
+
+# POP3
+
+Post Office Protocol version 3
+
+Port 110
+
+Used to retrieve emails from a remote server to a local client
