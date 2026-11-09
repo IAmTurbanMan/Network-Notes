@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "352075ebbe82f74c",
+  "active": "0070b584b15ca954",
   "lastOpenFiles": [
     "05. Media and Connectors/Building a Copper Cable.md",
     "Resources/Exam Objectives.pdf",
