@@ -15,6 +15,7 @@
 - Can support high-speed data transfer
 ## F-type Connector
 - Standard for cable television and satellite connections, and can also be used for cable Internet connections
+- Screw-on connector
 ### Radio Guide (RG-X)
 - Used with coaxial cables for various applications like high-speed Internet connections, television connections, and radio communications
 #### RG-6
@@ -24,3 +25,6 @@
 - An older specification for coaxial cables that used to be very common for television and radio signal transmission
 ## BNC (Bayonet Neill-Concelman) Connector
 - Another type of coaxial connector that is characterized by its secure bayonet locking mechanism
+- Push and twist style connector
+- Professional video applications
+- Quick and secure connection
