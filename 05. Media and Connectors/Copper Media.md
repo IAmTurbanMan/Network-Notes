@@ -10,10 +10,35 @@
 - A type of wiring in which two conductors of a single circuit are twisted together
 	- To cancel out electromagnetic interference and crosstalk that might occur form neighboring cables
 - Preferred method for transmitting data and voice
+- Regardless of whether using a STP or UTP, each cable is also categorized using a number
+
+| Category | Speed    | Dist   | Frequency | AKA         | AKA 2               |
+| -------- | -------- | ------ | --------- | ----------- | ------------------- |
+| CAT 5    | 100 Mbps | 100 m  | 100 MHz   | 100 BASE-T  | Fast Ethernet       |
+| CAT 5e   | 1 Gbps   | 100 m  | 100 MHz   | 1000 BASE-T | Gigabit Ethernet    |
+| CAT 6    | 1 Gbps   | 100 m  | 250 MHz   | 1000 BASE-T | Gigabit Ethernet    |
+| CAT 6    | 10 Gbps  | < 55 m | 250 MHz   | 10G BASE-T  | 10-Gigabit Ethernet |
+| CAT 6a   | 10 Gbps  | 100 m  | 500 MHz   | 10G BASE    |                     |
+
 ### UTP (Unshielded Twisted Pair)
 - Composed of pairs of wires twisted together, without additional shielding being added to the cable
 - Most common type of twisted pair cables
 - Pros:
 	- Lightweight
-	- 
+	- Flexible
+	- Cost-effective
+	- Easier to install
+- Cons:
+	- More susceptible to EMI and noise
+		- Degrades signal quality
 ### STP (Shielded Twisted Pair)
+- Designed with a layer of insulation or shielding
+	- Copper tape, conductive polymer, or braided mesh of copper wires
+- Protects against EMI by reducing noise
+- Used in environments that have a high amount of EMI
+- Pros:
+	- More protection against EMI and noise
+- Cons:
+	- Bulkier
+	- More expensive
+	- Difficult to install
