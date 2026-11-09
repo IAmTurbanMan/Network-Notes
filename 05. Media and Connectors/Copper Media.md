@@ -47,16 +47,18 @@
 ## Coaxial Cable
 - Consists of a single copper conductor at its core, with an insulating layer and a conductive shield covering
 - Most modern coax cables can support speeds of up to 1 Gbps at a distance of up to 300 meters
-### RG-6
+### Standard Coaxial Cables
+#### RG-6
 - Used to support faster Internet speeds when using a cable modem
 - Heavier center copper core
 	- Great for high bandwidth and higher frequency applications
 		- Cable modems and digital video transmission
-### RG-59
+- 1 Gbps at 300 m
+#### RG-59
 - Older cables that are only used in analog video and closed circuit television installations
 - Thinner copper core
 - Not really used anymore
-## Direct Attach Copper Cable
+### Direct Attach Copper Cable
 - A form of fixed assembly copper cabling used to connect switches to routers or servers
 - DAC active cables
 	- 100 Gbps at 15 m or less
@@ -64,5 +66,26 @@
 	- 100 Gbps at 7 m or less
 - Can support high-speed data transmission of 10 Gbps, 40 Gbps, or up to 100 Gbps
 	- Depends on distance
-## Twinaxial Cable
-- Often a component of a DAC assembly and is considered as another specialized form of cab
+### Twinaxial Cable
+- Often a component of a DAC assembly and is considered as another specialized form of cabling
+- Consists of two separate insulated copper conductors that are run parallel within the same outer shield
+- Optimized for short-range, high speed differential signaling applications
+- Commonly used for SFP+ and QSFP direct attach applications between two routers or switches
+- Less susceptible to EMI
+- 10+ Gbps at 10 m
+
+| Speed    | Distance |
+| -------- | -------- |
+| 10 Gbps  | 100 m    |
+| 25 Gbps  |          |
+| 40 Gbps  |          |
+| 100 Gbps | 7 m      |
+## Plenum vs. Non-plenum Cables
+### Plenum Cables
+- Designed with fire-retardant plastic jackets made from materials like PVC or FEP
+	- Prevents flames from spreading
+	- Reduces the amount of smoke
+- Meet the stringent requirements of the NFPA and the NEC
+### Non-plenum Cables
+- Not designed with the same stringent fire-retardant properties and are not suitable for use in plenum spaces
+- Used for installations that do not require stringent fire safety standards of plenum-rated cables
