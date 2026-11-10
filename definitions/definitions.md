@@ -597,3 +597,27 @@ Known for its square shape and push-pull design that offers a secure and simple 
 *Lucent Connector*
 
 Distinguished by a compact size that utilizes a push-pull mechanism similar to the SC but in a much smaller form factor
+
+---
+
+# ST
+
+*Straight Tip Connector*
+
+Recognizable by its round shape and twist-lock mechanism that offers a robust and reliable connector type for use in networks
+
+---
+
+# MTRJ
+
+*Mechanical Transfer-Registered Jack*
+
+Features a small, rectangular design and houses both the transmit and receive fibers in a single connector
+
+---
+
+# MPO
+
+*Multi-Fiber Push On*
+
+Designed to accommodate multiple fibers in a single connector to significantly increase the capacity and flexibility of the fiber networks
