@@ -1,7 +1,7 @@
 > [!NOTE] [[Exam Objectives.pdf#page=6&selection=6,0,6,57|OBJ 1.5]]
 > Compare and contrast transmission media and transceivers.
 
-## Types
+## Connectors
 ### SC (Subscriber Connector)
 - Known for its square shape and push-pull design that offers a secure and simple connection mechanism
 - "Stick and Click Connector"
@@ -33,8 +33,20 @@
 - 12+ fibers in a single MPO
 - Used for backbone cabling
 - Simultaneous handling of multiple fibers is crucial in modern data centers
-## Polish
+## Polishes
 ### PC (Physical Contact)
 - Slight curvature in face of the fiber for a lower back reflection
 - Commonly used in digital and telephone services
-- Provide 
+- Provide the least effective reduction in back reflection
+	- Best used over short distance or lower speed data transmission network
+		- Back reflection is less of a concern
+### UPC (Ultra Physical Contact)
+- Dome shaped end face for better core alignment
+- Offers lower back reflection than PC style
+- General broadband, data, and video applications
+### APC (Angled Physical Contact)
+- 8^o angled polish to greatly reduce back reflection
+- Lowest amount of back reflection
+- Highly suited for long distance and high bandwidth applications
+	- Used in long-haul fiber installations
+		- Undersea cable networks

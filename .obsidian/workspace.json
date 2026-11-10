@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Media and Connectors/Fiber Network Connections.md",
+                "file": "05. Media and Connectors/Transceivers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiber Network Connections"
+              "title": "Transceivers"
             }
           },
           {
@@ -225,8 +225,8 @@
   },
   "active": "352075ebbe82f74c",
   "lastOpenFiles": [
-    "definitions/definitions.md",
     "05. Media and Connectors/Fiber Network Connections.md",
+    "definitions/definitions.md",
     "05. Media and Connectors/Fiber Media.md",
     "05. Media and Connectors/Building a Copper Cable.md",
     "05. Media and Connectors/Copper Network Connections.md",
