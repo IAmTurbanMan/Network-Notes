@@ -539,6 +539,7 @@ Used for collecting information from and configuring different network devices l
 ---
 
 # NTP
+
 *Network Time Protocol*
 
 Port 123
@@ -548,6 +549,7 @@ Used to synchronize the clocks of a computer over a given network
 ---
 
 # SIP
+
 *Session Initiation Protocol*
 
 Port 5060, Port 5061
@@ -563,3 +565,35 @@ Used for initiating, maintaining, and terminating real-time sessions that involv
 Port 389
 
 Protocol for accessing and maintaining distributed directory information services over and IP network
+
+---
+
+# SMF
+
+*Single-Mode Fiber*
+
+Designed for long-distance communication and features a small glass core typically around 8.3 to 10 microns in diameter
+
+---
+
+# MMF
+
+*Multi-Mode Fiber*
+
+Tailored for shorter distances because it has a larger fiber core size that ranges from 50 to 100 microns
+
+---
+
+# SC
+
+*Subscriber Connector*
+
+Known for its square shape and push-pull design that offers a secure and simple connection mechanism
+
+---
+
+# LC
+
+*Lucent Connector*
+
+Distinguished by a compact size that utilizes a push-pull mechanism similar to the SC but in a much smaller form factor

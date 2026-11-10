@@ -19,5 +19,18 @@
 - Complexity
 	- Requires special tools and training
 ## Types
-### Single-Mode Fiber
+### SMF (Single-Mode Fiber)
 - Designed for long-distance communication and features a small glass core typically around 8.3 to 10 microns in diameter
+- Light travels down a single path
+- Backbone installations in large networks
+- Connections between different network segments over vast land areas
+- Yellow sheath
+### MMF (Multi-Mode Fiber)
+- Tailored for shorter distances because it has a larger fiber core size that ranges from 50 to 100 microns
+- Larger fiber core facilitates multiple light paths
+	- great for shorter-distance data transmission
+- Cheaper to manufacture
+- Used within buildings and smaller campuses and business parks
+- Choose MMF for higher data rates over short distances rather than using copper media cables
+	- Anything under 2000 m
+- Aqua blue or orange sheath
