@@ -17,3 +17,7 @@
 - Too little humidity can cause static electrical discharge
 	- Can damage electronics
 - Ideal humidity level is 40-60%
+## Airflow Management
+- Heat generation must be managed and dissipated
+### Port-side Exhaust and Intake (Hot/Cold Aisle)
+- Strategic method of air distribution in which server tacks are positioned in alternating rows with cold and hot air
