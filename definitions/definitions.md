@@ -621,3 +621,17 @@ Features a small, rectangular design and houses both the transmit and receive fi
 *Multi-Fiber Push On*
 
 Designed to accommodate multiple fibers in a single connector to significantly increase the capacity and flexibility of the fiber networks
+
+---
+
+# MDF
+
+*Main Distribution Frame*
+
+Serves as the main starting point far all interior cabling that will be distributed throughout the facility
+
+---
+
+# IDF
+
+Intermediate Distribution Frame
