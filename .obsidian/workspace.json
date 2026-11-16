@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Media and Connectors/Transceivers.md",
+                "file": "06. Distribution Systems/Cable Distribution Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transceivers"
+              "title": "Cable Distribution Systems"
             }
           },
           {
@@ -223,8 +223,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba1acb309da9cf73",
+  "active": "352075ebbe82f74c",
   "lastOpenFiles": [
+    "06. Distribution Systems/Testing a Network.md",
+    "06. Distribution Systems/Wiring a Network.md",
+    "Resources/Exam Objectives.pdf",
+    "06. Distribution Systems/Cable Distribution Systems.md",
+    "06. Distribution Systems/Fire Suppression Systems.md",
+    "06. Distribution Systems/Heating, Ventilation, and Air Conditioning (HVAC) Systems.md",
+    "06. Distribution Systems/Power Distribution Systems.md",
+    "Resources/Study Guide.pdf",
+    "05. Media and Connectors/Transceivers.md",
     "06. Distribution Systems",
     "05. Media and Connectors/Fiber Network Connections.md",
     "definitions/definitions.md",
@@ -232,8 +241,6 @@
     "05. Media and Connectors/Building a Copper Cable.md",
     "05. Media and Connectors/Copper Network Connections.md",
     "05. Media and Connectors/Copper Media.md",
-    "Resources/Exam Objectives.pdf",
-    "05. Media and Connectors/Transceivers.md",
     "Resources/Templates/Section Notes.md",
     "04. Ports and Protocols/Protocols and Ports Table.md",
     "05. Media and Connectors",
@@ -247,12 +254,6 @@
     "04. Ports and Protocols/Remote Access Ports and Protocols.md",
     "04. Ports and Protocols/Network Service Ports and Protocols.md",
     "03. OSI Model/Layer 4 (Transport).md",
-    "03. OSI Model/Layer 3 (Network).md",
-    "04. Ports and Protocols/File Transfer Ports and Protocols.md",
-    "04. Ports and Protocols/Email Ports and Protocols.md",
-    "04. Ports and Protocols/Web Ports and Protocols.md",
-    "04. Ports and Protocols/Internet Control Message Protocol (ICMP).md",
-    "04. Ports and Protocols/User Datagram Protocol (UDP).md",
     "04. Ports and Protocols",
     "Resources/03. OSI Model/Payload.png",
     "Network-Notes",
@@ -270,8 +271,6 @@
     "Resources/02. Network Fundamentals/Spine and leaf Architecture.png",
     "Resources/02. Network Fundamentals",
     "02. Network Fundamentals/Section 02 Canvas.canvas",
-    "Untitled.base",
-    "Resources/Templates",
-    "Resources/Study Plan.pdf"
+    "Untitled.base"
   ]
 }
