@@ -18,4 +18,10 @@
 - Take a little bit of time to start up
 	- Paired with UPS or PDU for redundant power solution
 ## Managing Power Loads
+- Critical in preventing circuit overloads and ensuring efficient power usage inside data centers
+- Proper load balancing ensures the power supply is evenly distributed so no single circuit is under excessive load
 ## Understanding Voltage Considerations
+- Voltage= Electric potential difference and is a key factor in power distribution systems
+- EU devices in US will not power on
+- US devices in EU will catch fire
+- Most devices these days are considered to be dual-voltage and can be configured to run on either 120V or 230V
