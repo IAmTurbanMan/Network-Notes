@@ -635,3 +635,11 @@ Serves as the main starting point far all interior cabling that will be distribu
 # IDF
 
 Intermediate Distribution Frame
+
+---
+
+# 110 punchdown block
+
+*110 block*
+
+Type of punchdown block for both voice and data applications that rely on CAT 5 or newer copper-based networks

@@ -18,7 +18,34 @@
 ## IDF (Intermediate Distribution Frame)
 - Many of these can be connected back to the MDF
 - Larger organizations may need multiple 48-port switches
-	- Will connect back to MDF backbpone 
-## Racks
-## Patch Panels
+	- Will connect back to MDF backbone switch
+- One on each floor for smaller buildings
 ## Fiber Distribution Panels
+## Distribution Infrastructure
+### Cable Tray
+- Unit or assembly of units that form a rigid structural system to secure the cables and raceways used by the cables as the go across the building
+#### Horizontal
+- Cables run in a drop ceiling or under a raised floor
+- Can run in a cable tray suspended from the ceiling in the case of no plenum space
+#### Vertical
+- Vertical cross-connect
+- Minimize number of cables
+	- Will run trunk cables between MDF to IDF
+### Racks
+- Designed to hold various devices like switches, routers, patch panels, and servers to facilitate efficient space management and easy access for ongoing network maintenance
+#### 2-post Rack
+- Designed with two vertical posts and is used for lighter equipment of for patch panels and network cabling in telecommunications setups
+#### 4-post Rack
+- Designed with four vertical posts and offers enhanced stability and support that makes it ideal for heavier equipment
+#### Wall-mounted Rack
+- Space-saving solution used for smaller network equipment and is ideal for environments with limited floor space or for housing peripheral network components
+- Edge switches in IDF where it was not built into the original design
+#### Full Cabinet Rack/Rack Enclosure
+- Fully enclosed rack with sides, doors, and a top that offers a secure and protected environment for high-value equipment
+- Can have locks installed
+### Patch Panel
+- Device or unit featuring a number of jacks for the use of connecting and routing circuits for monitoring, interconnecting, and testing circuits in a convenient and flexible manner
+- For better organization
+- Front side will have network jacks
+	- RJ-45 network ports
+- Back side will have 110 punchdown block
