@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Distribution Systems/Wiring a Network.md",
+                "file": "06. Distribution Systems/Power Distribution Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wiring a Network"
+              "title": "Power Distribution Systems"
             }
           },
           {
@@ -225,10 +225,10 @@
   },
   "active": "352075ebbe82f74c",
   "lastOpenFiles": [
-    "06. Distribution Systems/Cable Distribution Systems.md",
-    "definitions/definitions.md",
     "06. Distribution Systems/Testing a Network.md",
     "06. Distribution Systems/Wiring a Network.md",
+    "06. Distribution Systems/Cable Distribution Systems.md",
+    "definitions/definitions.md",
     "Resources/Exam Objectives.pdf",
     "06. Distribution Systems/Fire Suppression Systems.md",
     "06. Distribution Systems/Heating, Ventilation, and Air Conditioning (HVAC) Systems.md",
