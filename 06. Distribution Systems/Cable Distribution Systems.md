@@ -20,7 +20,6 @@
 - Larger organizations may need multiple 48-port switches
 	- Will connect back to MDF backbone switch
 - One on each floor for smaller buildings
-## Fiber Distribution Panels
 ## Distribution Infrastructure
 ### Cable Tray
 - Unit or assembly of units that form a rigid structural system to secure the cables and raceways used by the cables as the go across the building
@@ -49,3 +48,7 @@
 - Front side will have network jacks
 	- RJ-45 network ports
 - Back side will have 110 punchdown block
+### Fiber Distribution Panel
+- Uses fiber connectors like SC, LC, ST, or MTRJ to make connections
+- No punchdown panel on the back
+- Can also act as a converter to convert one type of fiber connection to another
