@@ -3,5 +3,6 @@
   "cssTheme": "Vauxhall",
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "Courier New",
-  "textFontFamily": "JetBrains Mono"
+  "textFontFamily": "JetBrains Mono",
+  "showRibbon": true
 }
