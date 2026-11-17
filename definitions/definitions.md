@@ -643,3 +643,19 @@ Intermediate Distribution Frame
 *110 block*
 
 Type of punchdown block for both voice and data applications that rely on CAT 5 or newer copper-based networks
+
+---
+
+# SSID
+
+*Service Set Identifier*
+
+Common alphanumeric network name that end users can search for to connect to the wireless network
+
+---
+
+# ESS
+
+*Extended Service Set*
+
+Creates a larger network that shares the same SSID to allow for seamless connectivity across a building
