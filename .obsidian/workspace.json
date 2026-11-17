@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Distribution Systems/Fire Suppression Systems.md",
+                "file": "07. Wireless Networks/Wireless Network Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fire Suppression Systems"
+              "title": "Wireless Network Types"
             }
           },
           {
@@ -223,8 +223,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba1acb309da9cf73",
+  "active": "352075ebbe82f74c",
   "lastOpenFiles": [
+    "07. Wireless Networks/802.11 Standards.md",
+    "Resources/Exam Objectives.pdf",
+    "07. Wireless Networks/Captive Portals.md",
+    "07. Wireless Networks/When Wireless Security Fails.md",
+    "07. Wireless Networks/Understanding Wireless Security.md",
+    "07. Wireless Networks/Wireless Security.md",
+    "07. Wireless Networks/Wireless Frequencies.md",
+    "07. Wireless Networks/Understanding Antennas.md",
+    "07. Wireless Networks/Wireless Antennas.md",
+    "07. Wireless Networks/Wireless Network Types.md",
+    "06. Distribution Systems/Fire Suppression Systems.md",
     "07. Wireless Networks",
     "06. Distribution Systems/Heating, Ventilation, and Air Conditioning (HVAC) Systems.md",
     "06. Distribution Systems/Power Distribution Systems.md",
@@ -232,8 +243,6 @@
     "06. Distribution Systems/Wiring a Network.md",
     "06. Distribution Systems/Cable Distribution Systems.md",
     "definitions/definitions.md",
-    "Resources/Exam Objectives.pdf",
-    "06. Distribution Systems/Fire Suppression Systems.md",
     "Resources/Study Guide.pdf",
     "05. Media and Connectors/Transceivers.md",
     "06. Distribution Systems",
@@ -246,15 +255,6 @@
     "04. Ports and Protocols/Protocols and Ports Table.md",
     "05. Media and Connectors",
     "02. Network Fundamentals/Understanding Network Geography.md",
-    "02. Network Fundamentals/Network Geography.md",
-    "02. Network Fundamentals/Network Resources.md",
-    "02. Network Fundamentals/Network Components.md",
-    "02. Network Fundamentals/Datacenter Topology.md",
-    "03. OSI Model/Understanding the OSI Model.md",
-    "04. Ports and Protocols/Other Network Service Ports and Protocols.md",
-    "04. Ports and Protocols/Remote Access Ports and Protocols.md",
-    "04. Ports and Protocols/Network Service Ports and Protocols.md",
-    "03. OSI Model/Layer 4 (Transport).md",
     "04. Ports and Protocols",
     "Resources/03. OSI Model/Payload.png",
     "Network-Notes",
@@ -271,7 +271,6 @@
     "03. OSI Model",
     "Resources/02. Network Fundamentals/Spine and leaf Architecture.png",
     "Resources/02. Network Fundamentals",
-    "02. Network Fundamentals/Section 02 Canvas.canvas",
-    "Untitled.base"
+    "02. Network Fundamentals/Section 02 Canvas.canvas"
   ]
 }
