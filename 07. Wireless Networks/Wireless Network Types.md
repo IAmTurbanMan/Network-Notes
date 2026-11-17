@@ -36,3 +36,12 @@
 1. Uses ESS configuration in a wireless network that operates in infrastructure mode
 	- If there are two or more WAPs in the building, this will create a seamless wireless network across the building
 2. Uses multiple different types of wireless networks all operating together to provide services to end users
+	- Inherent redundancy in this type of mesh network ensures that data can be rerouted through alternate paths, maintaining vital communications
+## Autonomous Access Point
+- Standalone device that contains all of the intelligence to handle wireless networking functions independently
+- Configured individually
+- Useful in small setups or where a central controller across the whole network is not necessary
+	- Most home users rely on Autonomous Access Points
+## Lightweight Access Point
+- Multiple access points connecting back to a centralized controller
+- Easier management for larger networks with multiple access points
